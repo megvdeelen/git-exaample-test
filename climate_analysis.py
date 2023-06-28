@@ -19,7 +19,7 @@ def FahrToKelvin(fahr):
 
     Args:
         fahr (float): temperature in fahrenheit
-
+        
     Returns:
         float: temperature in kelvin
     """
